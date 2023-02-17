@@ -11,7 +11,7 @@ int main()
 
     else
     {
-        st << "Hi friends";
+        st << "Hi friends,I am Anish";
         // position
         cout << "pointer :" << st.tellp() << endl;
         st.close();
